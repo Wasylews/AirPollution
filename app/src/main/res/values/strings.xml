@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AirPollution</string>
+    <string name="co_button_text">Окис вуглецю</string>
+    <string name="o3_button_text">Озон</string>
+    <string name="so2_button_text">Діоксид сірки</string>
+    <string name="no2_button_text">Діоксид азоту</string>
+    <string name="time_hint">Time:</string>
+    <string name="pollution_value">Value</string>
+    <string name="pressure_value">Pressure</string>
+    <string name="precision_value">Precision</string>
+    <string name="no2">NO2</string>
+    <string name="no2_strat">Stratosphere</string>
+    <string name="no2_trop">Troposphere</string>
+    <string name="o3_value_hint">O3 pollution is</string>
+</resources>
